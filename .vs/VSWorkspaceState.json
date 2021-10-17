@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\fireBendersWeb",
-    "\\fireBendersWeb\\www"
+    "\\fireBendersWeb\\www",
+    "\\fireBendersWeb\\www\\js"
   ],
-  "SelectedNode": "\\fireBendersWeb\\www\\index.html",
+  "SelectedNode": "\\fireBendersWeb\\www\\images",
   "PreviewInSolutionExplorer": false
 }
