@@ -1,2 +1,2 @@
-# fireBenders
+fireBenders
 SCEHackathon
