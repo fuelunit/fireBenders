@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="fireBenders.fireBendersWeb" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>fireBenders</name>
+    <description>
+        Hackathon project
+    </description>
+    <author email="yipeng.liu@sjsu.edu" href="https://www.sjsu.edu">
+        Team fireBenders:
+        Daniel Bao
+        Henry Pham
+        Shashank Sridhar
+        Yipeng Liu
+    </author>
+    <content src="index.html" />
+    
+</widget>
